@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "updatedAt": "2025-10-28T09:00:00Z",
+  "items": [
+    {
+      "title": "Neue Version: TheLauncher 1.1",
+      "subtitle": "Darkmode verbessert, News integriert.",
+      "imageUrl": "https://picsum.photos/seed/hero123/1200/600",
+      "linkUrl": "https://example.com/release-1-1",
+      "date": "2025-10-28T08:00:00Z",
+      "tile": "large",
+      "priority": 10
+    },
+    {
+      "title": "Kundenstory: 30 % schneller",
+      "subtitle": "So beschleunigte ACME die NC-Erstellung.",
+      "imageUrl": "https://picsum.photos/seed/thumb1/400/225",
+      "linkUrl": "https://example.com/story",
+      "date": "2025-10-20T10:00:00Z",
+      "tile": "small",
+      "priority": 5
+    },
+    {
+      "title": "Tipp: Materialdaten pflegen",
+      "subtitle": "So nutzt du Dropdowns effizient.",
+      "imageUrl": "https://picsum.photos/seed/thumb2/400/225",
+      "linkUrl": "https://example.com/tipps",
+      "date": "2025-10-18T09:00:00Z",
+      "tile": "small",
+      "priority": 4
+    },
+    {
+      "title": "Event: Innovation Days",
+      "subtitle": "Live-Demos & Best Practices.",
+      "imageUrl": "https://picsum.photos/seed/thumb3/400/225",
+      "linkUrl": "https://example.com/event",
+      "date": "2025-10-15T12:00:00Z",
+      "tile": "small",
+      "priority": 3
+    },
+    {
+      "title": "Release Notes 1.0.5",
+      "subtitle": "Bugfixes & Performance.",
+      "imageUrl": "https://picsum.photos/seed/thumb4/400/225",
+      "linkUrl": "https://example.com/release-105",
+      "date": "2025-10-05T07:00:00Z",
+      "tile": "small",
+      "priority": 2
+    }
+  ]
+}
