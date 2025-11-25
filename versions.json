@@ -1,0 +1,14 @@
+{
+  "programs": [
+    {
+      "id": "bysoft_cam",
+      "latestVersion": "5.2.0",
+      "infoUrl": "https://dein-link-zur-release-seite"
+    },
+    {
+      "id": "bysoft_designer",
+      "latestVersion": "5.2.0",
+      "infoUrl": "https://dein-link-zur-release-seite"
+    }
+  ]
+}
