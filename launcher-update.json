@@ -3,11 +3,11 @@
   "title": "Neue Version 0.0.12 verfügbar!",
   "features": [
     "Neues Info-Fenster mit allen installierten Versionen.",
-    "Verbesserte Darstellung der Programmdetails."
+    "Verbesserte Darstellung der Programmdetails.",
+    "Neue Originale Icons der Software"
   ],
   "bugfixes": [
-    "Fehler beim Scrollen in der Programmliste behoben.",
-    "Kleinere UI-Anpassungen."
+    "Keine Änderung, mein Code enthält keine Fehler :P"
   ],
   "downloadUrl": "https://dein-link-zum-setup.exe"
 }
