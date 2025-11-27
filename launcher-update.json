@@ -1,0 +1,13 @@
+{
+  "version": "0.0.12",
+  "title": "Neue Version 0.0.12 verfügbar!",
+  "features": [
+    "Neues Info-Fenster mit allen installierten Versionen.",
+    "Verbesserte Darstellung der Programmdetails."
+  ],
+  "bugfixes": [
+    "Fehler beim Scrollen in der Programmliste behoben.",
+    "Kleinere UI-Anpassungen."
+  ],
+  "downloadUrl": "https://dein-link-zum-setup.exe"
+}
