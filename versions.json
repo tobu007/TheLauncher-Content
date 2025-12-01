@@ -3,12 +3,14 @@
     {
       "id": "BySoftCAM",
       "latestVersion": "6.0.0",
-      "infoUrl": "https://dein-link-zur-release-seite"
+      "infoUrl": "https://sw.bystronic.com/",
+      "licenseGuideUrl": "https://sw.bystronic.com/"
     },
     {
       "id": "BySoftDesigner",
-      "latestVersion": "5.1.0",
-      "infoUrl": "https://dein-link-zur-release-seite"
+      "latestVersion": "6.0.0",
+      "infoUrl": "https://sw.bystronic.com/",
+      "licenseGuideUrl": "https://sw.bystronic.com/"
     }
   ]
 }
