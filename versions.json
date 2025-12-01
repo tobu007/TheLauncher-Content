@@ -4,13 +4,15 @@
       "id": "BySoftCAM",
       "latestVersion": "5.5.0",
       "infoUrl": "https://sw.bystronic.com/",
-      "licenseGuideUrl": "https://sw.bystronic.com/"
+      "licenseGuideUrl": "https://sw.bystronic.com/",
+      "releaseNotesUrl": "https://sw.bystronic.com/"
     },
     {
       "id": "BySoftDesigner",
       "latestVersion": "6.0.0",
       "infoUrl": "https://sw.bystronic.com/",
-      "licenseGuideUrl": "https://sw.bystronic.com/"
+      "licenseGuideUrl": "https://sw.bystronic.com/",
+      "releaseNotesUrl": "https://sw.bystronic.com/"
     }
   ]
 }
