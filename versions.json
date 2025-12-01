@@ -2,7 +2,7 @@
   "programs": [
     {
       "id": "BySoftCAM",
-      "latestVersion": "6.0.0",
+      "latestVersion": "5.5.0",
       "infoUrl": "https://sw.bystronic.com/",
       "licenseGuideUrl": "https://sw.bystronic.com/"
     },
