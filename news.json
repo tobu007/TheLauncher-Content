@@ -3,49 +3,26 @@
   "updatedAt": "2025-10-28T09:00:00Z",
   "items": [
     {
-      "title": "BySoft CAM V6.0",
-      "subtitle": "Jetzt verfügbar!",
-      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/UpdateCAM.png",
-      "linkUrl": "https://sw.bystronic.com",
-      "date": "2025-10-28T08:00:00Z",
-      "tile": "large",
-      "priority": 10
+  "id": 1,
+  "title": "BySoft CAM V6.0",
+  "subtitle": "Jetzt verfügbar!",
+  "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/UpdateCAM.png",
+  "linkUrl": "https://sw.bystronic.com",
+  "videoUrl": "",
+  "date": "2025-10-28T08:00:00Z",
+  "tile": "large",
+  "priority": 10
     },
     {
-      "title": "Laserupgrade",
-      "subtitle": "Mehr Power für deine Anlage",
-      "imageUrl": "https://raw.githubusercontent.com/tobu007/TheLauncher-Content/main/images/Launcher_Test_v2.jpg",
-      "linkUrl": "https://example.com/story",
-      "date": "2025-10-20T10:00:00Z",
-      "tile": "small",
-      "priority": 5
-    },
-    {
-      "title": "So klappts mit der Rakete",
-      "subtitle": "Die richtigen Settings beim Biegen",
-      "imageUrl": "https://picsum.photos/seed/thumb2/400/225",
-      "linkUrl": "https://example.com/tipps",
-      "date": "2025-10-18T09:00:00Z",
-      "tile": "small",
-      "priority": 4
-    },
-    {
-      "title": "Ein voller Erfolg, unsere Software-Days",
-      "subtitle": "Unsere Eventreihe ist vorbei und es was ein voller Erfolg. \n Wir sehen uns im nächsten Jahr",
-      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/SoftwaretagV2.png",
-      "linkUrl": "https://example.com/event",
-      "date": "2025-10-15T12:00:00Z",
-      "tile": "small",
-      "priority": 3
-    },
-    {
-      "title": "Release Notes BySoft CAM 5.2",
-      "subtitle": "Bugfixes & Performance",
-      "imageUrl": "https://picsum.photos/seed/thumb4/400/225",
-      "linkUrl": "https://example.com/release-105",
-      "date": "2025-10-05T07:00:00Z",
-      "tile": "small",
-      "priority": 2
-    }
-  ]
+  "id": ,
+  "title": "",
+  "subtitle": "",
+  "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/UpdateCAM.png",
+  "linkUrl": "https://sw.bystronic.com",
+  "videoUrl": "https://tobu007.github.io/TheLauncher-Content/videos/UpdateCAM.mp4",
+  "date": "2025-10-28T08:00:00Z",
+  "tile": "large",
+  "priority": 10
+}
+]
 }
