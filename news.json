@@ -49,11 +49,11 @@
   
   {
     "id": 5,
-    "title": "Bystronic Newsroom Update",
-    "subtitle": "Aktuelle Erfolgsgeschichten und Branchennews",
-    "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/UpdateCAM.png",
-    "linkUrl": "https://www.bystronic.com/deu/de/newsroom",
-    "videoUrl": "",
+    "title": "Neueröffnung des Democenter!",
+    "subtitle": "Kundendemo JETZT buchen",
+    "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/democenter02.png",
+    "linkUrl": "",
+    "videoUrl": "https://tobu007.github.io/TheLauncher-Content/images/democenter03.mp4",
     "date": "2025-06-22T09:00:00Z",
     "tile": "small",
     "priority": 20
