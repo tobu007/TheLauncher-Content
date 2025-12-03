@@ -13,11 +13,11 @@
 
   {
     "id": 2,
-    "title": "BySoft Suite – neue Funktionen",
-    "subtitle": "Verbesserte Workflows für maximale Effizienz",
+    "title": "",
+    "subtitle": "",
     "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/UpdateCAM.png",
     "linkUrl": "",
-    "videoUrl": "",
+    "videoUrl": "https://tobu007.github.io/TheLauncher-Content/images/powerupgrade_en.mp4",
     "date": "2025-09-15T10:30:00Z",
     "tile": "small",
     "priority": 5
