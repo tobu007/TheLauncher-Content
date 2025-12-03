@@ -14,7 +14,7 @@
   {
     "id": 2,
     "title": "GET MORE POWER!",
-    "subtitle": "",
+    "subtitle": "Maschenupgrade sichern.",
     "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/poweruprade.png",
     "linkUrl": "",
     "videoUrl": "https://tobu007.github.io/TheLauncher-Content/images/powerupgrade_en.mp4",
@@ -25,11 +25,11 @@
 
   {
     "id": 3,
-    "title": "Neue Maschinenintegration",
-    "subtitle": "BySoft integriert neue Biegemaschinenserie",
-    "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/UpdateCAM.png",
-    "linkUrl": "https://www.bystronic.com",
-    "videoUrl": "",
+    "title": "MyBystronic Kundenportal",
+    "subtitle": "jetzt online!",
+    "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/mybystronic.png",
+    "linkUrl": "my.bystronic.com",
+    "videoUrl": "https://tobu007.github.io/TheLauncher-Content/images/customerportal_en.mp4",
     "date": "2025-08-01T07:00:00Z",
     "tile": "small",
     "priority": 10
