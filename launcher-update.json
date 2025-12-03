@@ -1,14 +1,14 @@
 {
-  "version": "0.0.16",
-  "title": "Neue Version 0.0.16 verfügbar!",
+  "version": "0.0.18",
+  "title": "Neue Version 0.0.18 verfügbar!",
   "features": [
-    "Neues Info-Fenster mit allen installierten Versionen.",
-    "Verbesserte Darstellung der Programmdetails.",
-    "Neue Originale Icons der Software"
+    "",
+    "",
+    ""
   ],
   "bugfixes": [
-    "Keine Änderung, mein Code enthält keine Fehler :P",
-    "Hat vielleicht doch noch paar Fehler"
+    "",
+    ""
   ],
   "downloadUrl": "https:/gibts-noch-nicht.hahaha"
 }
