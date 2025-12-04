@@ -40,7 +40,7 @@
     "title": "MyBystronic Kundenportal",
     "subtitle": "jetzt online!",
     "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/mybystronic.png",
-    "linkUrl": "my.bystronic.com",
+    "linkUrl": "https://my.bystronic.com/de/login?ec=302&startURL=%2F",
     "videoUrl": "https://tobu007.github.io/TheLauncher-Content/images/customerportal_en.mp4",
     "date": "2025-08-01T07:00:00Z",
     "tile": "small",
