@@ -2,21 +2,21 @@
   "programs": [
     {
       "id": "BySoftCAM",
-      "latestVersion": "6.1.0",
+      "latestVersion": "6.2.0",
       "infoUrl": "https://bystronic-mediacenter.picturepark.com/v/I4SBXMiB/",
       "licenseGuideUrl": "https://sw.bystronic.com/",
       "releaseNotesUrl": "https://tobu007.github.io/TheLauncher-Content/BySoft CAM_WhatsNew_5.0.0_de.pdf"
     },
     {
       "id": "BySoftServer",
-      "latestVersion": "6.1.0",
+      "latestVersion": "6.2.0",
       "infoUrl": "https://bystronic-mediacenter.picturepark.com/v/I4SBXMiB/",
       "licenseGuideUrl": "https://sw.bystronic.com/",
       "releaseNotesUrl": "https://tobu007.github.io/TheLauncher-Content/BySoft CAM_WhatsNew_5.0.0_de.pdf"
     },
     {
       "id": "BySoftDesigner",
-      "latestVersion": "6.1.0",
+      "latestVersion": "6.2.0",
       "infoUrl": "https://bystronic.netcloud.cloud/s/B8gBrxsgzXAE6Fa",
       "licenseGuideUrl": "https://sw.bystronic.com/",
       "releaseNotesUrl": "https://sw.bystronic.com/"
