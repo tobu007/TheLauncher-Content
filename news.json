@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "BySoft CAM V6.0 veröffentlicht",
+    "title": "BySoft CAM V8.0 veröffentlicht",
     "subtitle": "Jetzt updaten und neue Funktionen nutzen!",
     "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/UpdateCAM.png",
     "linkUrl": "https://sw.bystronic.com",
@@ -10,7 +10,6 @@
     "tile": "large",
     "priority": 1
   },
-
   {
     "id": 2,
     "title": "GET MORE POWER!",
@@ -22,19 +21,6 @@
     "tile": "small",
     "priority": 5
   },
-
-  {
-    "id": 3,
-    "title": "ByTube Star 330",
-    "subtitle": "Jetzt Demo vereinbaren!",
-    "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/bytubestar330.png",
-    "linkUrl": "https://www.bystronic.com/deu/de/t/rohrlaser",
-    "videoUrl": "",
-    "date": "2025-07-10T12:00:00Z",
-    "tile": "small",
-    "priority": 15
-  },
-
   {
     "id": 4,
     "title": "MyBystronic Kundenportal",
@@ -46,7 +32,17 @@
     "tile": "small",
     "priority": 10
   },
-  
+  {
+    "id": 3,
+    "title": "ByTube Star 330",
+    "subtitle": "Jetzt Demo vereinbaren!",
+    "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/bytubestar330.png",
+    "linkUrl": "https://www.bystronic.com/deu/de/t/rohrlaser",
+    "videoUrl": "",
+    "date": "2025-07-10T12:00:00Z",
+    "tile": "small",
+    "priority": 15
+  },
   {
     "id": 5,
     "title": "Neueröffnung des Democenter!",
