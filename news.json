@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "title": "Happy Holidays",
-    "subtitle": "Marry Christmas to our customers!",
-    "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/MerryChristmas.png",
-    "linkUrl": "https://bystronic.com",
+    "title": "Herzlich Willkommen im Launcher :) ",
+    "subtitle": "Viel Spaß beim Erkunden. Bei Rückfragen gerne melden",
+    "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Welcome.png",
+    "linkUrl": "mailto:Tobias.Burkhart@bystronic.com",
     "videoUrl": "",
     "date": "2025-10-28T08:00:00Z",
     "tile": "large",
