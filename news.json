@@ -65,4 +65,45 @@
     "tile": "small",
     "priority": 20
   }
+    {
+    "id": 7,
+    "title": "SOFTWARETAGE 2026 - WISSEN AUS ERSTER HAND",
+    "subtitle": "Die Softwaretage 2026! Wissen, Austausch und Innovation an einem Tag. Melden Sie sicher jetzt für das Event in Ihrer Nähe an!",
+    "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Softwaretage.png",
+    "linkUrl": "Hier könnte Sie sich anmelden :) ",
+    "videoUrl": "",
+    "date": "2026-01-21T09:53:21Z",
+    "tile": "small",
+    "priority": 10
+  },  {
+    "id": 8,
+    "title": "SOFTWARETAGE 2026 - WISSEN AUS ERSTER HAND",
+    "subtitle": "Die Softwaretage 2026! Wissen, Austausch und Innovation an einem Tag. Melden Sie sicher jetzt für das Event in Ihrer Nähe an!",
+    "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Softwaretage.png",
+    "linkUrl": "Hier könnte Sie sich anmelden :) ",
+    "videoUrl": "",
+    "date": "2026-01-21T09:53:21Z",
+    "tile": "small",
+    "priority": 10
+  },  {
+    "id": 12,
+    "title": "SOFTWARETAGE 2026 - WISSEN AUS ERSTER HAND",
+    "subtitle": "Die Softwaretage 2026! Wissen, Austausch und Innovation an einem Tag. Melden Sie sicher jetzt für das Event in Ihrer Nähe an!",
+    "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Softwaretage.png",
+    "linkUrl": "Hier könnte Sie sich anmelden :) ",
+    "videoUrl": "",
+    "date": "2026-01-21T09:53:21Z",
+    "tile": "small",
+    "priority": 10
+  },  {
+    "id": 16,
+    "title": "SOFTWARETAGE 2026 - WISSEN AUS ERSTER HAND",
+    "subtitle": "Die Softwaretage 2026! Wissen, Austausch und Innovation an einem Tag. Melden Sie sicher jetzt für das Event in Ihrer Nähe an!",
+    "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Softwaretage.png",
+    "linkUrl": "Hier könnte Sie sich anmelden :) ",
+    "videoUrl": "",
+    "date": "2026-01-21T09:53:21Z",
+    "tile": "small",
+    "priority": 10
+  },
 ]
