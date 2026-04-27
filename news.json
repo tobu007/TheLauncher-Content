@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-01-21T12:00:00Z",
+  "updatedAt": "2026-04-27T12:12:12.8324633Z",
   "items": [
     {
       "id": 1,
@@ -9,86 +9,9 @@
       "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Welcome.png",
       "linkUrl": "mailto:Tobias.Burkhart@bystronic.com",
       "videoUrl": "",
-      "date": "2025-10-28T08:00:00Z",
+      "date": "10/28/2025 08:00:00",
       "tile": "large",
       "priority": 1
-    },
-    {
-      "id": 2,
-      "title": "ROHRLASERN NEU DEFINIERT",
-      "subtitle": "Mit der ByTube Star 330 beginnt eine neue Generation der Rohrlaserbearbeitung. Jetzt Demotermin vereinbaren!",
-      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Rohrlaser_Launcher1.png",
-      "linkUrl": "mailto:info.de@bystronic.com",
-      "videoUrl": "",
-      "date": "2025-09-15T10:30:00Z",
-      "tile": "small",
-      "priority": 5
-    },
-    {
-      "id": 3,
-      "title": "MEHR ALS SERVICE",
-      "subtitle": "Entdecken Sie unsere besten Angebote, die Ihren Alltag vereinfachen und Ihre Produktivität steigern.",
-      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Service.png",
-      "linkUrl": "https://www.bystronic.com",
-      "videoUrl": "",
-      "date": "2025-07-10T12:00:00Z",
-      "tile": "small",
-      "priority": 15
-    },
-    {
-      "id": 4,
-      "title": "IHR PORTAL. IHRE MÖGLICHKEITEN. MyBystronic!",
-      "subtitle": "Schneller Zugriff auf relevante Inhalte! Immer genau dann, wenn Sie sie brauchen.",
-      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/mybystronic.png",
-      "linkUrl": "https://my.bystronic.com/de/login?ec=302&startURL=%2F",
-      "videoUrl": "https://tobu007.github.io/TheLauncher-Content/images/customerportal_en.mp4",
-      "date": "2025-08-01T07:00:00Z",
-      "tile": "small",
-      "priority": 10
-    },
-    {
-      "id": 5,
-      "title": "GEMEINSAM ZUKUNFT GESTALTEN",
-      "subtitle": "Erleben Sie modernste Technologien und Lösungen live vor Ort in unserem neueröffneten Democenter in Gotha. Jetzt Termin vereinbaren!",
-      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/democenter02.png",
-      "linkUrl": "https://www.bystronic.com",
-      "videoUrl": "https://tobu007.github.io/TheLauncher-Content/images/democenter03.mp4",
-      "date": "2025-06-22T09:00:00Z",
-      "tile": "small",
-      "priority": 20
-    },
-    {
-      "id": 6,
-      "title": "SOFTWARETAGE 2026 - WISSEN AUS ERSTER HAND",
-      "subtitle": "Die Softwaretage 2026! Wissen, Austausch und Innovation an einem Tag. Melden Sie sich jetzt für das Event in Ihrer Nähe an!",
-      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Softwaretage.png",
-      "linkUrl": "https://www.bystronic.com",
-      "videoUrl": "",
-      "date": "2026-01-21T09:53:21Z",
-      "tile": "large",
-      "priority": 10
-    },
-    {
-      "id": 7,
-      "title": "SOFTWARETAGE 2026 - WISSEN AUS ERSTER HAND",
-      "subtitle": "Austausch mit Experten, Sessions zu BySoft und Automation – Ihre Region, Ihr Termin.",
-      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Softwaretage.png",
-      "linkUrl": "https://www.bystronic.com",
-      "videoUrl": "",
-      "date": "2026-01-21T09:53:21Z",
-      "tile": "small",
-      "priority": 10
-    },
-    {
-      "id": 8,
-      "title": "ROHRLASER BYTUBE STAR 330",
-      "subtitle": "Kompakte Bauweise, volle Leistung – jetzt unverbindlich informieren lassen.",
-      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Rohrlaser_Launcher1.png",
-      "linkUrl": "https://www.bystronic.com/deu/de/t/tube-laser-cutting-bytube-star-330",
-      "videoUrl": "",
-      "date": "2025-10-20T10:00:00Z",
-      "tile": "small",
-      "priority": 9
     },
     {
       "id": 9,
@@ -97,84 +20,29 @@
       "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Welcome.png",
       "linkUrl": "mailto:info.de@bystronic.com",
       "videoUrl": "",
-      "date": "2025-11-01T08:00:00Z",
+      "date": "11/01/2025 08:00:00",
       "tile": "small",
       "priority": 2
     },
     {
-      "id": 10,
-      "title": "DEMOCENTER GOTHA",
-      "subtitle": "Live-Technik erleben – biegen, schneiden, automatisieren. Exklusiv mit Termin.",
-      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/democenter02.png",
-      "linkUrl": "https://www.bystronic.com",
-      "videoUrl": "",
-      "date": "2025-10-10T10:00:00Z",
-      "tile": "small",
-      "priority": 11
-    },
-    {
-      "id": 11,
-      "title": "SERVICE & AUSTAUSCH",
-      "subtitle": "Vertragsmodelle, Fernwartung und Optimierung – wir begleiten Ihren Fertigungsalltag.",
-      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Service.png",
-      "linkUrl": "https://www.bystronic.com",
-      "videoUrl": "",
-      "date": "2025-09-01T11:00:00Z",
-      "tile": "small",
-      "priority": 12
-    },
-    {
-      "id": 12,
-      "title": "MYBYSTRONIC - DIGITAL VERNETZT",
-      "subtitle": "Dokumente, Tickets und Lizenzen an einem Ort – sicher anmelden und starten.",
-      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/mybystronic.png",
-      "linkUrl": "https://my.bystronic.com",
-      "videoUrl": "",
-      "date": "2025-08-15T08:00:00Z",
-      "tile": "small",
-      "priority": 8
-    },
-    {
-      "id": 13,
-      "title": "SOFTWARETAGE 2026",
-      "subtitle": "Schnell sein: beliebte Termine sind schnell ausgebucht. Jetzt vormerken!",
-      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Softwaretage.png",
-      "linkUrl": "https://www.bystronic.com",
-      "videoUrl": "",
-      "date": "2026-01-21T09:53:21Z",
-      "tile": "small",
-      "priority": 7
-    },
-    {
-      "id": 14,
-      "title": "DEMO & SCHULUNGEN",
-      "subtitle": "Gotha, regional oder online – lernen Sie Ihre Lösung mit unseren Spezialisten kennen.",
-      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/democenter02.png",
+      "id": 2,
+      "title": "ROHRLASERN NEU DEFINIERT",
+      "subtitle": "Mit der ByTube Star 330 beginnt eine neue Generation der Rohrlaserbearbeitung. Jetzt Demotermin vereinbaren!",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Rohrlaser_Launcher1.png",
       "linkUrl": "mailto:info.de@bystronic.com",
-      "videoUrl": "https://tobu007.github.io/TheLauncher-Content/images/democenter03.mp4",
-      "date": "2025-07-28T10:00:00Z",
+      "videoUrl": "",
+      "date": "09/15/2025 10:30:00",
       "tile": "small",
-      "priority": 13
+      "priority": 5
     },
     {
-      "id": 15,
-      "title": "BYTUBE STAR 130",
-      "subtitle": "Effizient Rohre bearbeiten – klicken für Produktinfos und Demo anfragen.",
-      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Rohrlaser_Launcher1.png",
-      "linkUrl": "https://www.bystronic.com/deu/de/t/tube-laser-cutting-bytube-star-130",
+      "id": 18,
+      "title": "DEMOCENTER – TERMIN SICHERN",
+      "subtitle": "Gotha: Maschinen live, Beratung auf Augenhöhe. Unverbindlich anfragen.",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/democenter02.png",
+      "linkUrl": "https://www.bystronic.com",
       "videoUrl": "",
-      "date": "2025-10-12T10:00:00Z",
-      "tile": "small",
-      "priority": 6
-    },
-    {
-      "id": 16,
-      "title": "BYTUBE STAR 330",
-      "subtitle": "Nächste Generation Rohtechnologie – Ihre Experten in der Region begleiten Sie.",
-      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Rohrlaser_Launcher1.png",
-      "linkUrl": "https://www.bystronic.com/deu/de/t/tube-laser-cutting-bytube-star-330",
-      "videoUrl": "",
-      "date": "2025-10-18T10:00:00Z",
+      "date": "10/30/2025 10:00:00",
       "tile": "small",
       "priority": 6
     },
@@ -185,20 +53,152 @@
       "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Service.png",
       "linkUrl": "https://www.bystronic.com",
       "videoUrl": "",
-      "date": "2025-10-25T10:00:00Z",
+      "date": "10/25/2025 10:00:00",
       "tile": "small",
       "priority": 6
     },
     {
-      "id": 18,
-      "title": "DEMOCENTER – TERMIN SICHERN",
-      "subtitle": "Gotha: Maschinen live, Beratung auf Augenhöhe. Unverbindlich anfragen.",
+      "id": 16,
+      "title": "BYTUBE STAR 330",
+      "subtitle": "Nächste Generation Rohtechnologie – Ihre Experten in der Region begleiten Sie.",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Rohrlaser_Launcher1.png",
+      "linkUrl": "https://www.bystronic.com/deu/de/t/tube-laser-cutting-bytube-star-330",
+      "videoUrl": "",
+      "date": "10/18/2025 10:00:00",
+      "tile": "small",
+      "priority": 6
+    },
+    {
+      "id": 15,
+      "title": "BYTUBE STAR 130",
+      "subtitle": "Effizient Rohre bearbeiten – klicken für Produktinfos und Demo anfragen.",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Rohrlaser_Launcher1.png",
+      "linkUrl": "https://www.bystronic.com/deu/de/t/tube-laser-cutting-bytube-star-130",
+      "videoUrl": "",
+      "date": "10/12/2025 10:00:00",
+      "tile": "small",
+      "priority": 6
+    },
+    {
+      "id": 13,
+      "title": "SOFTWARETAGE 2026",
+      "subtitle": "Schnell sein: beliebte Termine sind schnell ausgebucht. Jetzt vormerken!",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Softwaretage.png",
+      "linkUrl": "https://www.bystronic.com",
+      "videoUrl": "",
+      "date": "01/21/2026 09:53:21",
+      "tile": "small",
+      "priority": 7
+    },
+    {
+      "id": 12,
+      "title": "MYBYSTRONIC - DIGITAL VERNETZT",
+      "subtitle": "Dokumente, Tickets und Lizenzen an einem Ort – sicher anmelden und starten.",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/mybystronic.png",
+      "linkUrl": "https://my.bystronic.com",
+      "videoUrl": "",
+      "date": "08/15/2025 08:00:00",
+      "tile": "small",
+      "priority": 8
+    },
+    {
+      "id": 8,
+      "title": "ROHRLASER BYTUBE STAR 330",
+      "subtitle": "Kompakte Bauweise, volle Leistung – jetzt unverbindlich informieren lassen.",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Rohrlaser_Launcher1.png",
+      "linkUrl": "https://www.bystronic.com/deu/de/t/tube-laser-cutting-bytube-star-330",
+      "videoUrl": "",
+      "date": "10/20/2025 10:00:00",
+      "tile": "small",
+      "priority": 9
+    },
+    {
+      "id": 4,
+      "title": "IHR PORTAL. IHRE MÖGLICHKEITEN. MyBystronic!",
+      "subtitle": "Schneller Zugriff auf relevante Inhalte! Immer genau dann, wenn Sie sie brauchen.",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/mybystronic.png",
+      "linkUrl": "https://my.bystronic.com/de/login?ec=302&startURL=%2F",
+      "videoUrl": "https://tobu007.github.io/TheLauncher-Content/images/customerportal_en.mp4",
+      "date": "08/01/2025 07:00:00",
+      "tile": "small",
+      "priority": 10
+    },
+    {
+      "id": 6,
+      "title": "Bystronic auf der Blechexpo 2025 – Innovation live erleben",
+      "subtitle": "Erleben Sie modernste Lösungen für die Blechbearbeitung live auf der Blechexpo 2025. Bystronic präsentiert leistungsstarke Technologien rund um Laserschneiden, Biegen, Automation und Software – perfekt abgestimmt für eine effiziente und zukunftssichere Produktion.",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Euroblech.png",
+      "linkUrl": "https://www.bystronic.com",
+      "videoUrl": "",
+      "date": "01/21/2026 09:53:21",
+      "tile": "large",
+      "priority": 10
+    },
+    {
+      "id": 7,
+      "title": "SOFTWARETAGE 2026 - WISSEN AUS ERSTER HAND",
+      "subtitle": "Austausch mit Experten, Sessions zu BySoft und Automation – Ihre Region, Ihr Termin.",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Softwaretage.png",
+      "linkUrl": "https://www.bystronic.com",
+      "videoUrl": "",
+      "date": "01/21/2026 09:53:21",
+      "tile": "small",
+      "priority": 10
+    },
+    {
+      "id": 10,
+      "title": "DEMOCENTER GOTHA",
+      "subtitle": "Live-Technik erleben – biegen, schneiden, automatisieren. Exklusiv mit Termin.",
       "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/democenter02.png",
       "linkUrl": "https://www.bystronic.com",
       "videoUrl": "",
-      "date": "2025-10-30T10:00:00Z",
+      "date": "10/10/2025 10:00:00",
       "tile": "small",
-      "priority": 6
+      "priority": 11
+    },
+    {
+      "id": 11,
+      "title": "SERVICE & AUSTAUSCH",
+      "subtitle": "Vertragsmodelle, Fernwartung und Optimierung – wir begleiten Ihren Fertigungsalltag.",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Service.png",
+      "linkUrl": "https://www.bystronic.com",
+      "videoUrl": "",
+      "date": "09/01/2025 11:00:00",
+      "tile": "small",
+      "priority": 12
+    },
+    {
+      "id": 14,
+      "title": "DEMO & SCHULUNGEN",
+      "subtitle": "Gotha, regional oder online – lernen Sie Ihre Lösung mit unseren Spezialisten kennen.",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/democenter02.png",
+      "linkUrl": "mailto:info.de@bystronic.com",
+      "videoUrl": "https://tobu007.github.io/TheLauncher-Content/images/democenter03.mp4",
+      "date": "07/28/2025 10:00:00",
+      "tile": "small",
+      "priority": 13
+    },
+    {
+      "id": 3,
+      "title": "MEHR ALS SERVICE",
+      "subtitle": "Entdecken Sie unsere besten Angebote, die Ihren Alltag vereinfachen und Ihre Produktivität steigern.",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Service.png",
+      "linkUrl": "https://www.bystronic.com",
+      "videoUrl": "",
+      "date": "07/10/2025 12:00:00",
+      "tile": "small",
+      "priority": 15
+    },
+    {
+      "id": 5,
+      "title": "GEMEINSAM ZUKUNFT GESTALTEN",
+      "subtitle": "Erleben Sie modernste Technologien und Lösungen live vor Ort in unserem neueröffneten Democenter in Gotha. Jetzt Termin vereinbaren!",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/democenter02.png",
+      "linkUrl": "https://www.bystronic.com",
+      "videoUrl": "https://tobu007.github.io/TheLauncher-Content/images/democenter03.mp4",
+      "date": "06/22/2025 09:00:00",
+      "tile": "small",
+      "priority": 20
     }
   ]
 }
