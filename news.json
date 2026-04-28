@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T07:44:38.1371948Z",
+  "updatedAt": "2026-04-28T08:00:06.8521757Z",
   "items": [
+    {
+      "id": 3,
+      "title": "Neue Funktion: Countersink – weniger Schritte, mehr Effizienz",
+      "subtitle": "Ein Prozess statt zwei. Mehr Output bei gleicher Zeit. Mit Countersink integrieren Sie Senken und Schneiden in einen einzigen Arbeitsgang – vollständig automatisiert. Reduzieren Sie Nebenzeiten, vermeiden Sie manuelle Nachbearbeitung und steigern Sie Ihre Prozesssicherheit. Jetzt Verfügbarkeitsanfrage stellen!",
+      "imageUrl": "",
+      "linkUrl": "",
+      "videoUrl": "",
+      "date": "2026-04-28T07:59:19Z",
+      "tile": "small",
+      "priority": 10
+    },
     {
       "id": 2,
       "title": "Mehr Leistung für Ihre Anlage – jetzt upgraden",
