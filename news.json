@@ -1,5 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T07:28:45.0337354Z",
-  "items": []
+  "updatedAt": "2026-04-28T07:31:03.3886892Z",
+  "items": [
+    {
+      "id": 1,
+      "title": "Ihre Maschinen. Ihre Software. Ihre Updates – alles an einem Ort.",
+      "subtitle": "Kein Login. Voller Zugriff. Sofort produktiv. Der Launcher bringt alles zusammen, was Ihre Produktion bewegt - Maschinen, Software, Services und Updates. Keine Suche. Keine Umwege. Keine Informaitonslücken.",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Launcher.png",
+      "linkUrl": "",
+      "videoUrl": "",
+      "date": "2026-04-28T07:29:48Z",
+      "tile": "small",
+      "priority": 10
+    }
+  ]
 }
