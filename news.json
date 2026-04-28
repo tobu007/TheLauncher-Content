@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T07:31:03.3886892Z",
+  "updatedAt": "2026-04-28T07:43:26.4159928Z",
   "items": [
+    {
+      "id": 2,
+      "title": "Mehr Leistung für Ihre Anlage – jetzt upgraden",
+      "subtitle": "Mehr Leistung. Mehr Geschwindigkeit. Mehr Output. Mit einem Bystronic Laser Upgrade holen Sie das Maximum aus Ihrer bestehenden Anlage – ohne Neuinvestition. Steigern Sie Ihre Schneidgeschwindigkeit, verbessern Sie die Schnittqualität und reduzieren Sie Ihre Kosten pro Teil.",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Laserupgrade2.png",
+      "linkUrl": "",
+      "videoUrl": "",
+      "date": "2026-04-28T07:42:55Z",
+      "tile": "small",
+      "priority": 10
+    },
     {
       "id": 1,
       "title": "Ihre Maschinen. Ihre Software. Ihre Updates – alles an einem Ort.",
