@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T07:43:26.4159928Z",
+  "updatedAt": "2026-04-28T07:44:32.7827656Z",
   "items": [
     {
       "id": 2,
@@ -10,7 +10,7 @@
       "linkUrl": "",
       "videoUrl": "",
       "date": "2026-04-28T07:42:55Z",
-      "tile": "small",
+      "tile": "large",
       "priority": 10
     },
     {
@@ -21,7 +21,7 @@
       "linkUrl": "",
       "videoUrl": "",
       "date": "2026-04-28T07:29:48Z",
-      "tile": "small",
+      "tile": "large",
       "priority": 10
     }
   ]
