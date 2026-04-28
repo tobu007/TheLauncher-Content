@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T11:30:58.6985361Z",
+  "updatedAt": "2026-04-28T11:33:53.6251458Z",
   "items": [
+    {
+      "id": 15,
+      "title": "",
+      "subtitle": "",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/Laser.png",
+      "linkUrl": "",
+      "videoUrl": "",
+      "date": "2026-04-28T11:33:41Z",
+      "tile": "small",
+      "priority": 10
+    },
     {
       "id": 12,
       "title": "Bedienerschulung einfach buchen",
