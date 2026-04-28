@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T08:41:54.7537173Z",
+  "updatedAt": "2026-04-28T08:44:35.6662408Z",
   "items": [
+    {
+      "id": 5,
+      "title": "Vom CAD zu Fertigung – vollständig automatisiert!",
+      "subtitle": "Ein durchgängiger Prozess. Kein Stillstand. Mit der BySoft Suite verbinden Sie alle Schritte Ihrer Fertigung – von der Planung bis zur Analyse – in einem einzigen digitalen Workflow. Daten fließen automatisch, Prozesse greifen nahtlos ineinander und Ihre Produktion läuft effizienter denn je. Vom ERP System bis zum Analytictool, alles aus einer Hand.",
+      "imageUrl": "https://tobu007.github.io/TheLauncher-Content/images/BySoft%20Suite.png",
+      "linkUrl": "",
+      "videoUrl": "",
+      "date": "2026-04-28T08:43:11Z",
+      "tile": "small",
+      "priority": 10
+    },
     {
       "id": 4,
       "title": "Erleben Sie Bystronic live auf der EuroBLECH in Hannover",
