@@ -1,11 +1,12 @@
 {
-  "version": "0.0.21",
-  "title": "Test",
+  "version": "0.0.3",
+  "title": "Version 3.0",
   "features": [
-    ""
+    "Acitvitys",
+    "MyBystronic"
   ],
   "bugfixes": [
-    ""
+    "Darkmode xy"
   ],
   "downloadUrl": "https://sw.bystronic.com"
 }
